@@ -24,6 +24,7 @@ public class MyRing extends View{
 		paint = new Paint();
         int i = 0;
         int j = 1;
+        int k = 1;
 	}
 	
 	private void init() {
